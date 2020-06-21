@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/machine-quote/.%20/static/css/main.455d1d2f.chunk.css",
-    "main.js": "/machine-quote/.%20/static/js/main.8abfd396.chunk.js",
-    "main.js.map": "/machine-quote/.%20/static/js/main.8abfd396.chunk.js.map",
-    "runtime-main.js": "/machine-quote/.%20/static/js/runtime-main.b2aaf3b4.js",
-    "runtime-main.js.map": "/machine-quote/.%20/static/js/runtime-main.b2aaf3b4.js.map",
-    "static/js/2.6bd17f61.chunk.js": "/machine-quote/.%20/static/js/2.6bd17f61.chunk.js",
-    "static/js/2.6bd17f61.chunk.js.map": "/machine-quote/.%20/static/js/2.6bd17f61.chunk.js.map",
-    "index.html": "/machine-quote/.%20/index.html",
-    "precache-manifest.c2e34655baed6f7b3d9bdeb39f320322.js": "/machine-quote/.%20/precache-manifest.c2e34655baed6f7b3d9bdeb39f320322.js",
-    "service-worker.js": "/machine-quote/.%20/service-worker.js",
-    "static/css/main.455d1d2f.chunk.css.map": "/machine-quote/.%20/static/css/main.455d1d2f.chunk.css.map",
-    "static/js/2.6bd17f61.chunk.js.LICENSE.txt": "/machine-quote/.%20/static/js/2.6bd17f61.chunk.js.LICENSE.txt"
+    "main.css": "/machine-quote/static/css/main.455d1d2f.chunk.css",
+    "main.js": "/machine-quote/static/js/main.33b9c546.chunk.js",
+    "main.js.map": "/machine-quote/static/js/main.33b9c546.chunk.js.map",
+    "runtime-main.js": "/machine-quote/static/js/runtime-main.7eb84dd5.js",
+    "runtime-main.js.map": "/machine-quote/static/js/runtime-main.7eb84dd5.js.map",
+    "static/js/2.6bd17f61.chunk.js": "/machine-quote/static/js/2.6bd17f61.chunk.js",
+    "static/js/2.6bd17f61.chunk.js.map": "/machine-quote/static/js/2.6bd17f61.chunk.js.map",
+    "index.html": "/machine-quote/index.html",
+    "precache-manifest.cfffbedab0944270d6aa4eb200fbc8f8.js": "/machine-quote/precache-manifest.cfffbedab0944270d6aa4eb200fbc8f8.js",
+    "service-worker.js": "/machine-quote/service-worker.js",
+    "static/css/main.455d1d2f.chunk.css.map": "/machine-quote/static/css/main.455d1d2f.chunk.css.map",
+    "static/js/2.6bd17f61.chunk.js.LICENSE.txt": "/machine-quote/static/js/2.6bd17f61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2aaf3b4.js",
+    "static/js/runtime-main.7eb84dd5.js",
     "static/js/2.6bd17f61.chunk.js",
     "static/css/main.455d1d2f.chunk.css",
-    "static/js/main.8abfd396.chunk.js"
+    "static/js/main.33b9c546.chunk.js"
   ]
 }
