@@ -1,0 +1,43 @@
+{
+    "quotes":[
+        {
+            "quote":"Que la fuerza te acompañe",
+            "author": "Han Solo"
+        },
+        {
+            "quote":"Me encanta el olor del napalm por la mañana",
+            "author": "Apocalipsis now"
+        },
+            {
+            "quote":"Le voy a hacer una oferta que no podrá rechazar ",
+            "author": "Vito Corleone"
+        },
+            {
+            "quote":"¿Me estás hablando a mi?",
+            "author": "Travis Bickle"
+        },   
+            {
+            "quote":"Mantén a tus amigos cerca, pero a tus enemigos más cerca",
+            "author": "El padrino"
+        },
+        {
+            "quote":"Puede que nos quiten la vida, pero jamás nos quitarán la libertad",
+            "author": "William Wallace"
+        },
+        {
+            "quote":"De ustedes depende. O aprendemos a pelear como equipo o perdermos como individuos",
+            "author": "Un domingo cualquiera"
+        },
+        {
+            "quote":"Nadie te golpeara tan fuerte como lo hará la vida, pero debes resistir y seguir luchando",
+            "author": "Rocky"
+        },        {
+            "quote":"La valentia más grande del ser humano es mantenerse de pie, aun cuando se este cayendo en pedazos",
+            "author": "Gladiador"
+        },
+        {
+            "quote":"Hazlo o no lo hagas, pero no lo intentes",
+            "author": "Yoda"
+        }
+    ]
+}
